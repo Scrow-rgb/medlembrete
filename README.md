@@ -41,7 +41,7 @@ medlembrete/
 
 ## Planejamento
 
-O planejamento das sprints é gerenciado via [GitHub Projects](../../projects).
+O planejamento das sprints é gerenciado via [GitHub Projects](https://github.com/users/Scrow-rgb/projects/2/views/1).
 
 ## Tecnologias Previstas
 
