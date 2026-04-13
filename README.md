@@ -55,4 +55,3 @@ O planejamento das sprints é gerenciado via [GitHub Projects](../../projects).
 ## Autor
 
 Trabalho desenvolvido para a disciplina de Engenharia de Requisitos.
-# medlembrete
